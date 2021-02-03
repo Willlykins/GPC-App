@@ -13,3 +13,5 @@ Under an umbrella directory, chromatography data should be stored in a directory
 V.1 There are still some limits in the flexibility of the applet, but I am hopping to make it more adaptable in the future. I have included a sample data set (that was used in a recent manuscript submission). When the paper is accepted or posted on BiorXiv I will add descriptions of the data sets, and code that can be used to plot data extracted from the app. 
 
 The app exports a .mat file that containes all of the parameters calculated in the app, and the specific inputs that led to those outputs. 
+
+The zip files contain standalone desktop app, but I've also included a version of the native MatLab app that might be more user friendly in terms of adapting to a specific use case 
